@@ -1,0 +1,56 @@
+.top{
+    background-color: black;
+    height: 70px;
+    color: red;
+    border-width: 5px;
+  }
+  
+  #signin{
+    background-color: lightgray;
+    margin: auto;
+    width: 50%;
+    opacity: 0.7;
+  
+  }
+  
+  #clr_white{
+    color: black;
+  }
+  
+  .form{
+    border-color: brown;
+    border-width: 5px;
+  }
+  
+  #forgotpass{
+    color: black;
+    font-weight:bolder;
+  }
+  
+  a:hover{
+    background-color:purple;
+  }
+  
+  input:focus{
+    background-color: coral;
+  }
+  
+  .loginbutton{
+    margin-left:45%;
+    width: 50%;
+    
+  }
+  
+  .frame{
+    margin: auto;
+    width: 50%;
+  }
+  
+  #feedback{
+    position: absolute;
+    bottom: 1.5;
+  }
+  
+  body {
+    background-image: url('../../images/bg.jpg');
+  }
