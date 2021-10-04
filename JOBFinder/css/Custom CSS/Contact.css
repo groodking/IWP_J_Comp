@@ -1,0 +1,233 @@
+.test{
+  /* background-position:0; */
+}
+.u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url("../../images/xc-min.jpg");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 909px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 119px;
+  margin-bottom: 30px;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 760px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  font-size: 3rem;
+  text-transform: none;
+  line-height: 52.8px;
+  margin: 148px 46px 0 30px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 30px 46px 0 30px;
+}
+
+.u-section-1 .u-video-1 {
+  height: 251px;
+  width: 301px;
+  margin: 13px 239px -34px 30px;
+}
+
+.u-section-1 .embed-responsive-1 {
+  position: absolute;
+  width: 178%;
+  left: -39%;
+  height: 178%;
+  top: -39%;
+}
+
+.u-section-1 .u-video-poster-1 {
+  width: 56%;
+  left: 22%;
+  height: 56%;
+  top: 22%;
+  /* background-image: url(images/d-small-people-finding-job-logo-vector-image-152911466.jpg); */
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 760px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 29px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 675px;
+  width: 510px;
+  margin: 25px auto 0;
+}
+
+.u-section-1 .u-label-1 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-input-1 {
+  font-weight: 700;
+  background-image: linear-gradient(#77aad9, #e68387);
+}
+
+.u-section-1 .u-label-2 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-input-2 {
+  font-weight: 700;
+  background-image: linear-gradient(#77aad9, #e68387);
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-3 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-input-3 {
+  font-weight: 700;
+  background-image: linear-gradient(#77aad9, #e68387);
+}
+
+.u-section-1 .u-form-group-4 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-4 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-input-4 {
+  font-weight: 700;
+  background-image: linear-gradient(#77aad9, #e68387);
+}
+
+.u-section-1 .u-label-5 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-input-5 {
+  font-weight: 700;
+  background-image: linear-gradient(#77aad9, #e68387);
+}
+
+.u-section-1 .u-form-group-6 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-6 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-btn-1 {
+  width: 22%;
+  border-style: solid;
+  padding-left: 0;
+  padding-right: 0;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 1rem;
+  background-image: linear-gradient(#478ac9, #db545a);
+  letter-spacing: normal;
+}
+
+.u-section-1 .u-icon-1 {
+  color: rgb(251, 236, 237) !important;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 617px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 627px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-video-1 {
+    height: 252px;
+    margin-right: 169px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 627px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 412px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 90px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-video-1 {
+    margin-right: 59px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-right: 0;
+    padding-left: 17px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 302px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 190px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    line-height: 1.2;
+  }
+
+  .u-section-1 .u-video-1 {
+    margin-right: 39px;
+  }
+}
